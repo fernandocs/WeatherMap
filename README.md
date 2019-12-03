@@ -7,7 +7,6 @@ To make this app usual you should to add the correct keys for the google maps(**
 - All the bookmarks that you have saved can be access from the bar on the bottom of the screen.
 - The weather of the bookmark can be access tapping on the bookmark itself.
 - The help screen can be access tapping on the question icon on the top-right of the screen
--
 
 <img src="https://github.com/fernandocs/WeatherMap/raw/master/prints/1.png" alt="layers"/>
 <img src="https://github.com/fernandocs/WeatherMap/raw/master/prints/2.png" alt="layers"/>
