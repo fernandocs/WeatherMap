@@ -20,6 +20,6 @@ class HelpFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        view.webView.loadUrl("https://github.com/fernandocs/List")
+        view.webView.loadUrl("https://github.com/fernandocs/WeatherMap")
     }
 }
