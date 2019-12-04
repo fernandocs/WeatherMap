@@ -8,8 +8,8 @@ To make this app usual you should to add the correct keys for the google maps(**
 - The weather of the bookmarked location can be accessed by tapping on the bookmark itself.
 - The help screen can be accessed by tapping on the question icon on the top-right of the screen
 
-<img src="https://github.com/fernandocs/WeatherMap/raw/master/prints/1.png" alt="layers"/>
-<img src="https://github.com/fernandocs/WeatherMap/raw/master/prints/2.png" alt="layers"/>
+<img src="https://github.com/fernandocs/WeatherMap/raw/master/prints/1.png" alt="layers" width="400" height="711"/>
+<img src="https://github.com/fernandocs/WeatherMap/raw/master/prints/2.png" alt="layers" width="400" height="711"/>
 
 ## Architecture
 MVI and Clean
